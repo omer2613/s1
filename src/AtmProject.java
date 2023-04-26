@@ -9,6 +9,11 @@ public class AtmProject {
         //verson3
         System.out.println("git ögrenmek co kolay");
         //version4
+        System.out.println("omer branchi kodlarini yazdi");
+        // omr1
+        System.out.println("bir kısım kodlar yazdım");
+        //omr2
+
     }
 
 }
