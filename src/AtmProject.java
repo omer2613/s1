@@ -13,6 +13,8 @@ public class AtmProject {
         // omr1
         System.out.println("bir kısım kodlar yazdım");
         //omr2
+        System.out.println();
+        //localde değişiklik yaptım
 
     }
 
